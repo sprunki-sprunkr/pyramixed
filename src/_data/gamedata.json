@@ -1,0 +1,150 @@
+{
+
+  "below": {
+    "index": {
+      "name": "Pyramixed",
+      "description": "",
+      "bgCover": "/assets/pyramixed.jpeg",
+      "iframeUrl": "https://games.sprunki.top/games/sprunki/sprunki-pyramixed.html",
+      "path": "/",
+      "category": "sprunki"
+    },
+    "pyramix": {
+      "name": "Pyramix",
+      "description": "",
+      "bgCover": "/assets/pyramixed.jpeg",
+      "iframeUrl": "",
+      "path": "https://pyramix.cc/",
+      "category": "sprunki"
+    },
+    "scrunkly": {
+      "name": "Scrunkly",
+      "description": "",
+      "bgCover": "/assets/scrunkly.jpeg",
+      "iframeUrl": "https://games.sprunki.top/games/sprunki/scrunkly.html",
+      "path": "https://scrunkly.fun/",
+      "category": "sprunki"
+    },
+    "sprunki-sprunkr": {
+      "name": "Sprunkr",
+      "description": "A unique rhythm-based music creation game that puts creativity at your fingertips!",
+      "bgCover": "/assets/sprunkr.jpeg",
+      "iframeUrl": "https://games.sprunki.top/games/sprunki/spunkr.html",
+      "path": "https://sprunkisprunkr.com/",
+      "category": "sprunki"
+    },
+    "sprunki-sprunkr-2": {
+      "name": "Sprunkr 2.0",
+      "description": "",
+      "bgCover": "/assets/sprunki-sprunkr-2.jpeg",
+      "iframeUrl": "https://games.sprunki.top/games/sprunki/sprunkr2.html",
+      "path": "https://sprunkisprunkr.com/sprunki-sprunkr-2/",
+      "category": "sprunki"
+    },
+    "spruted": {
+      "name": "Spruted",
+      "description": "Spruted is a new trendy mod for Sprunki, enjoy new sounds and characters!",
+      "bgCover": "/assets/spruted.jpeg",
+      "iframeUrl": "https://game.sprunki.com/spruted/index.html",
+      "path": "https://sprunkisprunkr.com/spruted/",
+      "category": "sprunki"
+    },
+    "cool-as-ice": {
+      "name": "Cool as Ice",
+      "description": "",
+      "bgCover": "/assets/coolasice.jpeg",
+      "iframeUrl": "https://games.sprunki.top/games/sprunki/sprunki-cool-as-ice.html",
+      "path": "https://sprunkisprunkr.com/cool-as-ice/",
+      "category": "sprunki"
+    },
+    "sprunki-but-with-memes": {
+      "name": "Sprunki But With Memes",
+      "description": "",
+      "bgCover": "/assets/sprunki-memes.jpeg",
+      "iframeUrl": "https://games.sprunki.top/games/sprunki/sprunki-but-with-memes.html",
+      "path": "https://sprunkisprunkr.com/sprunki-but-with-memes/",
+      "category": "sprunki"
+    },
+    "sprunki-cancelled-update": {
+      "name": "Sprunki Cancelled Update",
+      "description": "",
+      "bgCover": "/assets/gamecover.jpeg",
+      "iframeUrl": "https://games.sprunki.top/games/sprunki/sprunki-incredibox.html",
+      "path": "https://sprunkisprunkr.com/sprunki-cancelled-update/",
+      "category": "sprunki"
+    },
+    "sprunki-mustard": {
+      "name": "Sprunki Mustard",
+      "description": "",
+      "bgCover": "/assets/sprunki-mustard.jpeg",
+      "iframeUrl": "https://iframegame.com/embed/sprunki-mustard/index.html",
+      "path": "https://sprunkisprunkr.com/sprunki-mustard/",
+      "category": "sprunki"
+    },
+    "sprunki-incredibox": {
+      "name": "Sprunki Incredibox",
+      "description": "",
+      "bgCover": "/assets/gamecover.jpeg",
+      "iframeUrl": "https://games.sprunki.top/games/sprunki/sprunki-incredibox.html",
+      "path": "https://sprunkisprunkr.com/sprunki-incredibox/",
+      "category": "sprunki"
+    },
+    "incredibox-mustard": {
+      "name": "Incredibox Mustard",
+      "description": "",
+      "bgCover": "/assets/mustard.avif",
+      "iframeUrl": "https://games.sprunki.top/games/sprunki/incredibox-mustard.html",
+      "path": "https://sprunkisprunkr.com/incredibox-mustard/",
+      "category": "incredibox"
+    },
+    "sprunki-corruptbox-3": {
+      "name": "Corruptbox 3 x Sprunki",
+      "description": "",
+      "bgCover": "/assets/sprunki-corruptbox-3.jpeg",
+      "iframeUrl": "https://iframegame.com/embed/corruptbox3-x-sprunki/index.html",
+      "path": "https://sprunkisprunkr.com/sprunki-corruptbox-3/",
+      "category": "sprunki"
+    },
+    "sprunki-corruptbox-2": {
+      "name": "Corruptbox 2 But Sprunki",
+      "description": "",
+      "bgCover": "/assets/sprunki-corruptbox-2.jpeg",
+      "iframeUrl": "https://iframegame.com/embed/corruptbox-2-but-sprunki/index.html",
+      "path": "https://sprunkisprunkr.com/sprunki-corruptbox-2/",
+      "category": "sprunki"
+    },
+    "sprunki-corruptbox": {
+      "name": "Corruptbox But Sprunki",
+      "description": "",
+      "bgCover": "/assets/sprunki-corruptbox.jpeg",
+      "iframeUrl": "https://iframegame.com/embed/corruptbox-but-sprunki/index.html",
+      "path": "https://sprunkisprunkr.com/sprunki-corruptbox/",
+      "category": "sprunki"
+    },
+    "sprunki-phase-3": {
+      "name": "Sprunki Phase 3",
+      "description": "",
+      "bgCover": "/assets/sprunki-phase-3.png",
+      "iframeUrl": "https://games.sprunki.top/games/sprunki/sprunki-phase-3.html",
+      "path": "https://sprunkisprunkr.com/sprunki-phase-3/",
+      "category": "sprunki"
+    },
+    "sprunki-phase-4": {
+      "name": "Sprunki Phase 4",
+      "description": "",
+      "bgCover": "/assets/sprunki-phase-4.png",
+      "iframeUrl": "https://games.sprunki.top/games/sprunki/sprunki-phase-4.html",
+      "path": "https://sprunkisprunkr.com/sprunki-phase-4/",
+      "category": "sprunki"
+    },
+    "sprunki-phase-5": {
+      "name": "Sprunki Phase 5",
+      "description": "",
+      "bgCover": "/assets/sprunki-phase-5.webp",
+      "iframeUrl": "https://games.sprunki.top/games/sprunki/sprunki-phase-5.html",
+      "path": "https://sprunkisprunkr.com/sprunki-phase-5/",
+      "category": "sprunki"
+    }
+  }
+  
+}
